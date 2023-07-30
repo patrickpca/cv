@@ -25,7 +25,7 @@ module.exports = {
   ],
   positions: [
     {
-      title: 'Hamlet',
+      title: 'CyberSecurity',
       period: 'Likely early 17th century',
       skills: ['tragedy', 'philosophy', 'death'],
       contents: `
