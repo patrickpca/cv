@@ -7,7 +7,7 @@ module.exports = {
                   <i class="fa-brands fa-wikipedia-w fact-icon"></i>William_Shakespeare
                 </a>`,
     'Twitter': `<a href="https://twitter.com/shakespeare"><i class="fa-brands fa-twitter fact-icon"></i>Shakespeare</a>`,
-    'Email': '<a href="patrickpcaa@gmail.com"><i class="fa fa-envelope fact-icon"></i>wil64@yahoo.com</a>'
+    'Email': '<a href="patrickpcaa@gmail.com"><i class="fa fa-envelope fact-icon"></i>patrickpcaa@gmail.com</a>'
   },
   skills: [
     ['Comedy', 100],
