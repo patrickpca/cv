@@ -4,24 +4,24 @@ module.exports = {
   facts: {
     'Residence': '<a href="https://www.google.com/maps/d/embed?mid=1njMqPYaeTpLPTg1FGom0BoJJA3o&hl=en&ehbc=2E312F" width="640" height="480"><i class="fa fa-home fact-icon"></i>Espirito Santo</a>',
     'Linkedin': `<a href="https://www.linkedin.com/in/patrick-coser/">
-                  <i class="fab fa-linkedin-in"></i>Patrick Coser
+                  <i class="fab fa-linkedin-in"></i>Patrick-Coser
                 </a>`,
     'Github': `<a href="https://github.com/patrickpca"><i class="fa-brands fa-github"></i>Patrickpca</a>`,
     'Email': '<a href="patrickpcaa@gmail.com"><i class="fa fa-envelope fact-icon"></i>patrickpcaa@gmail.com</a>'
   },
   skills: [
-    ['Python', 80],
+    ['Hacking', 100],
     ['OSINT', 100],
-    ['Pentest Interno', 100],
-    ['Pentest Externo', 100],
-    ['Auditoria Cyber', 70],
-    ['Erotic', 100],
-    ['Sonnets', 100],
-    ['Plays', 100],
-    ['Writing', 100],
-    ['Directing', 100],
-    ['Literature', 100],
-    ['Influence', 100],
+    ['Pentest', 100],
+    ['BACEN', 85],
+    ['Data Analysis', 75],
+    ['COBIT', 75],
+    ['SQL', 80],
+    ['GitHub', 75],
+    ['OpenIA', 80],
+    ['Cloud', 75],
+    ['Python', 80],
+    ['Análise vulnerabilidade', 100],
   ],
   positions: [
     {
@@ -37,19 +37,25 @@ module.exports = {
 `
     },
     {
-      title: 'Twelfth Night',
-      period: '1600 – 1601',
-      skills: ['comedy', 'love'],
+      title: 'Pentester',
+      period: 'Fevereiro de 2022 – Momento',
+      skills: ['Pentest Interno', 'Pentest Externo','Pentest Web', 'Análise de Vulnerabilidade'],
       contents: `
-Viola finds herself shipwrecked in Illyria and, assuming that her brother Sebastian has died in the wreck, disguises herself as a man to gain a position in Duke Orsino's court. Orsino sends Viola (whom he knows as Cesario) to deliver a message to his love, Olivia. Olivia, however, dislikes the Duke. She falls in love with Viola, who she thinks is a man. Eventually, Viola's brother Sebastian, who in fact was unharmed in the wreck, reappears. At a critical moment, Viola's true identity is revealed when members of the court notice the similarities between her and Sebastian. Olivia quickly falls in love with Sebastian, and Viola confesses her love for the Duke.
+- Pentest Externo;
+- Pentest Interno;
+- Pentest Web;
+- Análise de segurança.
 `
     },
     {
-      title: 'The Tragedy of Romeo and Juliet',
-      period: '1595–1596, with a possible early draft written in 1591',
-      skills: ['tragedy', 'death', 'love'],
+      title: 'Enygma',
+      period: 'Abril de 2022 – Junho de 202',
+      skills: ['SOC', 'Fortinet'],
       contents: `
-In Verona, Italy, two families, the Montagues and the Capulets, are in the midst of a bloody feud. Romeo, a Montague, and Juliet, a Capulet, fall in love and struggle to maintain their relationship in the face of familial hatred. After Romeo kills Juliet's cousin Tybalt in a fit of passion, things fall apart. Both lovers eventually commit suicide within minutes of each other, and the feuding families make peace over their recent grief.
+Fortinet:
+Análise de Log’s;
+Identificação de risco;
+Análise de relatórios de vulnerabilidade.
 `
     }
   ],
