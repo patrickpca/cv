@@ -10,11 +10,11 @@ module.exports = {
     'Email': '<a href="patrickpcaa@gmail.com"><i class="fa fa-envelope fact-icon"></i>patrickpcaa@gmail.com</a>'
   },
   skills: [
-    ['Comedy', 100],
-    ['Love', 100],
-    ['Theater', 100],
-    ['Tragedy', 100],
-    ['Poetry', 100],
+    ['Python', 80],
+    ['OSINT', 100],
+    ['Pentest Interno', 100],
+    ['Pentest Externo', 100],
+    ['Auditoria Cyber', 70],
     ['Erotic', 100],
     ['Sonnets', 100],
     ['Plays', 100],
@@ -25,11 +25,15 @@ module.exports = {
   ],
   positions: [
     {
-      title: 'CyberSecurity',
-      period: 'Likely early 17th century',
-      skills: ['tragedy', 'philosophy', 'death'],
+      title: 'Mazars',
+      period: 'Novembro de 2022 – Momento',
+      skills: ['Pentest', 'Auditoria', 'Avaliação de Vulnerabilidade'],
       contents: `
-Prince Hamlet is visited by his father's ghost and ordered to avenge his father's murder by killing King Claudius, his uncle. After struggling with several questions, including whether what the ghost said is true and whether it is right for him to take revenge, Hamlet, along with almost all the other major characters, is killed.
+- Pentest interno e externo;
+- Pentest em aplicações Web;
+- Implementação de políticas de segurança seguindo diretrizes do CMN, Bacen, CVM, NIST e ISO 27K.
+- Monitoramento, auditoria e avaliação de maturidade dos processos de segurança da informação.
+- Análise e mitigação de riscos e vulnerabilidades em sistemas, aplicações, processos e infraestruturas de segurança cibernética.Prince Hamlet is visited by his father's ghost and ordered to avenge his father's murder by killing King Claudius, his uncle. After struggling with several questions, including whether what the ghost said is true and whether it is right for him to take revenge, Hamlet, along with almost all the other major characters, is killed.
 `
     },
     {
