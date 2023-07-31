@@ -33,7 +33,7 @@ module.exports = {
 - Pentest em aplicações Web;
 - Implementação de políticas de segurança seguindo diretrizes do CMN, Bacen, CVM, NIST e ISO 27K.
 - Monitoramento, auditoria e avaliação de maturidade dos processos de segurança da informação.
-- Análise e mitigação de riscos e vulnerabilidades em sistemas, aplicações, processos e infraestruturas de segurança cibernética.Prince Hamlet is visited by his father's ghost and ordered to avenge his father's murder by killing King Claudius, his uncle. After struggling with several questions, including whether what the ghost said is true and whether it is right for him to take revenge, Hamlet, along with almost all the other major characters, is killed.
+- Análise e mitigação de riscos e vulnerabilidades em sistemas, aplicações, processos e infraestruturas de segurança cibernética.
 `
     },
     {
@@ -80,18 +80,26 @@ Gerenciar fluxo de caixa, confecção de relatórios informativos, realização 
   ],
   experience: [
     {
-      header: 'Performance',
-      skills: ['theater', 'play'],
+      header: 'Pentest',
+      skills: ['Kali Linux', 'Burp Suite','Metasploit','PowerSploit','Inveigh','Owasp Amass','Dehashed','Nmap', 'Nessus','Breach-Parsed','Shodan','GitLab','GitHub','AWS','Azure','Customização de scripts em Bash, PHP, SQL, Python, C, Perl, Ruby, PowerShell'],
       contents: `
-Thousands of performances of my plays have been staged since the end of the 16th century. Many of my greatest plays were performed by the Lord Chamberlain's Men and King's Men acting companies at the [Globe](https://en.wikipedia.org/wiki/Globe_Theatre) and Blackfriars Theatres.
-`
+      Pentest interno e externo; Web application pentest; Análise de vulnerabilidade.
+      `
     },
     {
-      header: 'Poetry',
-      skills: ['poetry', 'erotic'],
+      header: 'Auditor/ Consultor',
+      skills: ['COBIT','National Institute of Standards (NIST)','International Organization for Standardization (ISO 27K)','Information Security Forum (ISF)','Standard of Good Practice for Information Security (SOGP)','Committee of Sponsoring Organizations of the Treadway Commission (COSO II)'],
       contents: `
-In 1593 and 1594, when the theatres were closed because of plague, I published two narrative poems on sexual themes, Venus and Adonis and The Rape of Lucrece. I dedicated them to Henry Wriothesley, Earl of Southampton.
-`
+      Implementação de políticas de segurança, análise e mitigação de risco, mapeamento de fluxo.
+      `
+    },
+    {
+      header: 'Data Science',
+      skills: ['Anaconda','Github','Python','PHP','Matlab','ArcGis','Qgis','Autocad'],
+      contents: `
+      Data analysis; Qualificação de dados; Criação de processos de processamento de dados; Automatização de processamento.
+      `
     }
+
   ]
 };
