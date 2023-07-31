@@ -49,7 +49,7 @@ module.exports = {
     },
     {
       title: 'Enygma',
-      period: 'Abril de 2022 – Junho de 202',
+      period: 'Abril de 2022 – Junho de 2022',
       skills: ['SOC', 'Fortinet'],
       contents: `
 Fortinet:
@@ -57,7 +57,26 @@ Análise de Log’s;
 Identificação de risco;
 Análise de relatórios de vulnerabilidade.
 `
-    }
+    },
+    {
+      title: 'EGS Brasil',
+      period: 'Abril de 2018 – Julho de 2021',
+      skills: ['Data Analysis', 'Python', 'Geoprocessamento'],
+      contents: `
+Confecção de processamento de dados com python e elaboração de relatórios técnicos para cliente, criando meios de automatização com a linguagem na elaboração dos documentos;   -- Bibliotecas utilizadas Numpy, Pandas, Matplotlib, Cartopy, Seaborn, gsw, pylab e pycircstat; 
+Manutenção, testes e criação de procedimentos de equipamentos eletrônicos voltados para área da oceanografia;
+Aquisição de dados com moto aquática, levantamentos de dados e instalação de marégrafos.
+`
+   },
+   {
+    title: 'Ecoceano - Empresa Júnior de Consultoria em Oceanografia e Educação Ambiental',
+    period: 'Fevereiro de 2016 – Dezembro de 2016',
+    skills: ['Educação Ambiental', 'Controle de Caixa', 'Contabilidade'],
+    contents: `
+Gerenciar fluxo de caixa, confecção de relatórios informativos, realização de planejamento estratégico e gerir assessores na distribuição de demandas.
+
+`
+  }
   ],
   experience: [
     {
