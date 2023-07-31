@@ -1,12 +1,12 @@
 module.exports = {
   name: 'Patrick Coser',
-  title: 'Poet, playwright and actor',
+  title: 'CyberSecurity || Pentester || AppSec',
   facts: {
-    'Residence': '<a href="https://www.google.com/maps/place/London,+UK/@51.5285582,-0.2416814,11z/data=!3m1!4b1!4m5!3m4!1s0x47d8a00baf21de75:0x52963a5addd52a99!8m2!3d51.5072178!4d-0.1275862"><i class="fa fa-home fact-icon"></i>London</a>',
-    'Wiki': `<a href="https://en.wikipedia.org/wiki/William_Shakespeare">
-                  <i class="fa-brands fa-wikipedia-w fact-icon"></i>William_Shakespeare
+    'Residence': '<a href="https://www.google.com/maps/d/embed?mid=1njMqPYaeTpLPTg1FGom0BoJJA3o&hl=en&ehbc=2E312F" width="640" height="480"><i class="fa fa-home fact-icon"></i>Espirito Santo</a>',
+    'Linkedin': `<a href="https://www.linkedin.com/in/patrick-coser/">
+                  <i class="fab fa-linkedin-in"></i>Patrick Coser
                 </a>`,
-    'Twitter': `<a href="https://twitter.com/shakespeare"><i class="fa-brands fa-twitter fact-icon"></i>Shakespeare</a>`,
+    'Github': `<a href="https://github.com/patrickpca"><i class="fa-brands fa-github"></i>Patrickpca</a>`,
     'Email': '<a href="patrickpcaa@gmail.com"><i class="fa fa-envelope fact-icon"></i>patrickpcaa@gmail.com</a>'
   },
   skills: [
@@ -15,11 +15,11 @@ module.exports = {
     ['Theater', 100],
     ['Tragedy', 100],
     ['Poetry', 100],
-    ['Erotic', 75],
+    ['Erotic', 100],
     ['Sonnets', 100],
     ['Plays', 100],
     ['Writing', 100],
-    ['Directing', 75],
+    ['Directing', 100],
     ['Literature', 100],
     ['Influence', 100],
   ],
