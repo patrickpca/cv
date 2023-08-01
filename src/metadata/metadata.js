@@ -2,7 +2,7 @@ module.exports = {
   name: 'Patrick Coser',
   title: 'CyberSecurity || Pentester || AppSec',
   facts: {
-    'Residence': '<a href="https://www.google.com/maps/d/embed?mid=1njMqPYaeTpLPTg1FGom0BoJJA3o&hl=en&ehbc=2E312F" width="640" height="480"><i class="fa fa-home fact-icon"></i>Espirito Santo</a>',
+    'Local': '<a href="https://www.google.com/maps/d/embed?mid=1njMqPYaeTpLPTg1FGom0BoJJA3o&hl=en&ehbc=2E312F" width="640" height="480"><i class="fa fa-home fact-icon"></i>Espirito Santo</a>',
     'Linkedin': `<a href="https://www.linkedin.com/in/patrick-coser/">
                   <i class="fab fa-linkedin-in"></i>Patrick-Coser
                 </a>`,
@@ -29,22 +29,22 @@ module.exports = {
       period: 'Novembro de 2022 – Momento',
       skills: ['Pentest', 'Auditoria', 'Avaliação de Vulnerabilidade'],
       contents: `
-- Pentest interno e externo;
-- Pentest em aplicações Web;
-- Implementação de políticas de segurança seguindo diretrizes do CMN, Bacen, CVM, NIST e ISO 27K.
-- Monitoramento, auditoria e avaliação de maturidade dos processos de segurança da informação.
-- Análise e mitigação de riscos e vulnerabilidades em sistemas, aplicações, processos e infraestruturas de segurança cibernética.
+- Pentest interno e externo
+- Pentest em aplicações Web
+- Implementação de políticas de segurança seguindo diretrizes do CMN, Bacen, CVM, NIST e ISO 27K
+- Monitoramento, auditoria e avaliação de maturidade dos processos de segurança da informação
+- Análise e mitigação de riscos e vulnerabilidades em sistemas, aplicações, processos e infraestruturas de segurança cibernética
 `
     },
     {
       title: 'Pentester',
       period: 'Fevereiro de 2022 – Momento',
-      skills: ['Pentest Interno', 'Pentest Externo','Pentest Web', 'Análise de Vulnerabilidade'],
+      skills: ['Pentest ', 'Análise de Vulnerabilidade'],
       contents: `
-- Pentest Externo;
-- Pentest Interno;
-- Pentest Web;
-- Análise de segurança.
+- Pentest Externo
+- Pentest Interno
+- Pentest Web
+- Análise de segurança
 `
     },
     {
