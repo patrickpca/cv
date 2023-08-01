@@ -100,6 +100,6 @@ Gerenciar fluxo de caixa, confecção de relatórios informativos, realização 
       Data analysis; Qualificação de dados; Criação de processos de processamento de dados; Automatização de processamento.
       `
     }
-
   ]
+
 };
