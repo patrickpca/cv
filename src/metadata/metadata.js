@@ -37,7 +37,7 @@ module.exports = {
 `
     },
     {
-      title: 'Pentester',
+      title: 'Pentester Autônomo',
       period: 'Fevereiro de 2022 – Momento',
       skills: ['Pentest ', 'Análise de Vulnerabilidade'],
       contents: `
