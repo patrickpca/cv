@@ -74,7 +74,6 @@ Aquisição de dados com moto aquática, levantamentos de dados e instalação d
     skills: ['Educação Ambiental', 'Controle de Caixa', 'Contabilidade'],
     contents: `
 Gerenciar fluxo de caixa, confecção de relatórios informativos, realização de planejamento estratégico e gerir assessores na distribuição de demandas.
-
 `
   }
   ],
