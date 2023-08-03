@@ -47,17 +47,7 @@ module.exports = {
 - Análise de segurança
 `
     },
-    {
-      title: 'Enygma',
-      period: 'Abril de 2022 – Junho de 2022',
-      skills: ['SOC', 'Fortinet'],
-      contents: `
-Fortinet:
-Análise de Log’s;
-Identificação de risco;
-Análise de relatórios de vulnerabilidade.
-`
-    },
+    
     {
       title: 'EGS Brasil',
       period: 'Abril de 2018 – Julho de 2021',
@@ -77,6 +67,34 @@ Gerenciar fluxo de caixa, confecção de relatórios informativos, realização 
 `
   }
   ],
+
+
+  positions2: [
+    {
+      title: 'Enygma',
+      period: 'Abril de 2022 – Junho de 2022',
+      skills: ['SOC', 'Fortinet'],
+      contents: `
+Fortinet:
+Análise de Log’s;
+Identificação de risco;
+Análise de relatórios de vulnerabilidade.
+`
+    },
+    
+   {
+    title: 'Na Onda do Futuro',
+    period: 'Março de 2016 – Dezembro de 2016',
+    skills: ['Educação Ambiental'],
+    contents: `
+Criação de dinâmicas de aula focadas em eduação ambiental para criaças`
+  }
+  ],
+
+
+
+
+
   experience: [
     {
       header: 'Pentest',
