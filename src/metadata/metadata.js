@@ -34,6 +34,7 @@ module.exports = {
 - Implementação de políticas de segurança seguindo diretrizes do CMN, Bacen, CVM, NIST e ISO 27K
 - Monitoramento, auditoria e avaliação de maturidade dos processos de segurança da informação
 - Análise e mitigação de riscos e vulnerabilidades em sistemas, aplicações, processos e infraestruturas de segurança cibernética
+- implementação e operação do SOC com o SentinelOne.
 `
     },
     {
