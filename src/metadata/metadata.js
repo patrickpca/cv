@@ -10,18 +10,20 @@ module.exports = {
     'Email': '<a href="patrickpcaa@gmail.com"><i class="fa fa-envelope fact-icon"></i>patrickpcaa@gmail.com</a>'
   },
   skills: [
-    ['Hacking', 100],
+    ['Pentest Web', 100],
+    ['Pentest Externo', 100],
+    ['Pentest Interno', 100],
     ['OSINT', 100],
-    ['Pentest', 100],
+    ['Análise vulnerabilidade', 100],
+    ['Python', 90],
     ['BACEN', 85],
     ['Data Analysis', 75],
-    ['COBIT', 75],
-    ['SQL', 80],
-    ['GitHub', 75],
-    ['OpenIA', 80],
-    ['Cloud', 75],
-    ['Python', 80],
-    ['Análise vulnerabilidade', 100],
+    ['SOC', 75],
+    ['SQL', 75],
+    ['AWS', 75],
+    ['Automação de processos', 75],
+    ['Criação de Dashboards', 75],
+    
   ],
   positions: [
     {
@@ -29,11 +31,11 @@ module.exports = {
       period: 'Novembro de 2022 – Momento',
       skills: ['Pentest', 'Auditoria', 'Avaliação de Vulnerabilidade'],
       contents: `
-- Pentest interno e externo
-- Pentest em aplicações Web
-- Implementação de políticas de segurança seguindo diretrizes do CMN, Bacen, CVM, NIST e ISO 27K
-- Monitoramento, auditoria e avaliação de maturidade dos processos de segurança da informação
-- Análise e mitigação de riscos e vulnerabilidades em sistemas, aplicações, processos e infraestruturas de segurança cibernética
+- Pentest interno e externo;
+- Pentest em aplicações Web;
+- Implementação de políticas de segurança seguindo diretrizes do CMN, Bacen, CVM, NIST e ISO 27K;
+- Monitoramento, auditoria e avaliação de maturidade dos processos de segurança da informação;
+- Análise e mitigação de riscos e vulnerabilidades em sistemas, aplicações, processos e infraestruturas de segurança cibernética;
 - implementação e operação do SOC com o SentinelOne.
 `
     },
@@ -42,10 +44,10 @@ module.exports = {
       period: 'Fevereiro de 2022 – Momento',
       skills: ['Pentest ', 'Análise de Vulnerabilidade'],
       contents: `
-- Pentest Externo
-- Pentest Interno
-- Pentest Web
-- Análise de segurança
+- Pentest Externo;
+- Pentest Interno;
+- Pentest Web;
+- Análise de segurança.
 `
     },
     
@@ -54,9 +56,9 @@ module.exports = {
       period: 'Abril de 2018 – Julho de 2021',
       skills: ['Data Analysis', 'Python', 'Geoprocessamento'],
       contents: `
-Confecção de processamento de dados com python e elaboração de relatórios técnicos para cliente, criando meios de automatização com a linguagem na elaboração dos documentos;   -- Bibliotecas utilizadas Numpy, Pandas, Matplotlib, Cartopy, Seaborn, gsw, pylab e pycircstat; 
-Manutenção, testes e criação de procedimentos de equipamentos eletrônicos voltados para área da oceanografia;
-Aquisição de dados com moto aquática, levantamentos de dados e instalação de marégrafos.
+- Confecção de processamento de dados com python e elaboração de relatórios técnicos para cliente, criando meios de automatização com a linguagem na elaboração dos documentos;   -- Bibliotecas utilizadas Numpy, Pandas, Matplotlib, Cartopy, Seaborn, gsw, pylab e pycircstat; 
+- Manutenção, testes e criação de procedimentos de equipamentos eletrônicos voltados para área da oceanografia;
+- Aquisição de dados com moto aquática, levantamentos de dados e instalação de marégrafos.
 `
    },
    {
@@ -64,7 +66,7 @@ Aquisição de dados com moto aquática, levantamentos de dados e instalação d
     period: 'Fevereiro de 2016 – Dezembro de 2016',
     skills: ['Educação Ambiental', 'Controle de Caixa', 'Contabilidade'],
     contents: `
-Gerenciar fluxo de caixa, confecção de relatórios informativos, realização de planejamento estratégico e gerir assessores na distribuição de demandas.
+- Gerenciar fluxo de caixa, confecção de relatórios informativos, realização de planejamento estratégico e gerir assessores na distribuição de demandas.
 `
   }
   ],
@@ -73,13 +75,13 @@ Gerenciar fluxo de caixa, confecção de relatórios informativos, realização 
   positions2: [
     {
       title: 'Enygma',
-      period: 'Abril de 2022 – Junho de 2022',
+      period: 'Abril de 2022 – Outubro de 2022',
       skills: ['SOC', 'Fortinet'],
       contents: `
-Fortinet:
-Análise de Log’s;
-Identificação de risco;
-Análise de relatórios de vulnerabilidade.
+- Fortinet:
+- Análise de Log’s;
+- Identificação de risco;
+- Análise de relatórios de vulnerabilidade.
 `
     },
     
@@ -88,7 +90,7 @@ Análise de relatórios de vulnerabilidade.
     period: 'Março de 2016 – Dezembro de 2016',
     skills: ['Educação Ambiental'],
     contents: `
-Criação de dinâmicas de aula focadas em eduação ambiental para criaças`
+- Criação de dinâmicas de aula focadas em eduação ambiental para criaças`
   }
   ],
 
@@ -98,10 +100,17 @@ Criação de dinâmicas de aula focadas em eduação ambiental para criaças`
 
   experience: [
     {
-      header: 'Pentest',
+      header: 'Pentester',
       skills: ['Kali Linux', 'Burp Suite','Metasploit','PowerSploit','Inveigh','Owasp Amass','Dehashed','Nmap', 'Nessus','Breach-Parsed','Shodan','GitLab','GitHub','AWS','Azure','Customização de scripts em Bash, PHP, SQL, Python, C, Perl, Ruby, PowerShell'],
       contents: `
       Pentest interno e externo; Web application pentest; Análise de vulnerabilidade.
+      `
+    },
+    {
+      header: 'Analista Blue Team',
+      skills: ['Fortinet','SOC','SIEM','IBM Qradar','Zabbix','Sentinel One'],
+      contents: `
+      Implementação de centro de operações; Análise de Log's; identificação de risco e report para cliente para mitigação; Elaboração de relatório de vulnerabilidade.
       `
     },
     {
